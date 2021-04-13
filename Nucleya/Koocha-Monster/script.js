@@ -36,7 +36,7 @@ let All_song = [
      name: "Akkad Bakkad",
      path: "music/1.mp3",
      img: "img/img1.jpg",
-     singer: "Kavya Theran"
+     singer: ""
    },
    {
      name: "Bell Gadi",
@@ -45,10 +45,10 @@ let All_song = [
      singer: "Chinna Ponu & Relok"
    },
    {
-     name: "Jamrok",
+     name: "Jamrock",
      path: "music/4.mp3",
      img: "img/img1.jpg",
-     singer: "Nucleya x Divine"
+     singer: ""
    },
    {
      name: "New Delhi Nuttah",
